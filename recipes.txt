@@ -7,3 +7,5 @@ kheer
 pasta
 
 malai
+
+chicken fry
